@@ -1,0 +1,10 @@
+Breadsticks#Appetizer#3.99
+Garlic rolls#Appetizer#2.5
+Soda#Beverage#2.99
+Water#Beverage#1.99
+Cheesecake#Dessert#4.7
+Chocolate ice cream#Dessert#3.6
+Lasagna#Main#8.75
+Pizza, large#Main#12.0
+Pizza, medium#Main#10.0
+Pizza, small#Main#8.25
